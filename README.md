@@ -1,4 +1,4 @@
-# Minimarket Managment System
+# Minimarket Management System
 ## Project Description:
 The project includes the following forms:
 - Login Form
