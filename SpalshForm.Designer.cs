@@ -70,7 +70,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(488, 42);
             this.label1.TabIndex = 1;
-            this.label1.Text = "MINIMARKET MANGEMENT SYSTEM";
+            this.label1.Text = "MINIMARKET MANAGEMENT SYSTEM";
             // 
             // progressBar
             // 
